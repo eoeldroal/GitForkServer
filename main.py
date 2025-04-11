@@ -13,4 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('Hello world 1 in team leader server')
 
+    print_hi('Hello world 2 in team leader server')
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
